@@ -1,0 +1,3 @@
+Sistema que ejecuta Apache, MySQL y luego abre la pagina.
+
+El archivo que realiza eso el main.py mientras el archivo version.py solo ejecuta Apache y MySQL lo que no hace es abrir la pagina.  
