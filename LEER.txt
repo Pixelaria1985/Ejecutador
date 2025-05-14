@@ -1,3 +1,7 @@
 Sistema que ejecuta Apache, MySQL y luego abre la pagina.
 
-El archivo que realiza eso el main.py mientras el archivo version.py solo ejecuta Apache y MySQL lo que no hace es abrir la pagina.  
+- El archivo que realiza eso es el "main.py". 
+
+- Mientras el archivo "version.py" solo ejecuta Apache y MySQL lo que no hace es abrir la pagina.  
+
+- El archivo "ejecutaExe.py" hace lo mismo que el primero pero en vez de abrir una WEB ejecuta un ".exe".
